@@ -1,0 +1,4 @@
+window.SUPABASE_CONFIG={
+  url:"https://sumtlpbqfhmljkchpkna.supabase.co",
+  anonKey:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN1bXRscGJxZmhtbGprY2hwa25hIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg1NzcyODIsImV4cCI6MjEwNDE1MzI4Mn0.-8m7KDCO3HAbAsIL-jTJvfctGXNB_w2ySiuGKpxhj_s"
+};
